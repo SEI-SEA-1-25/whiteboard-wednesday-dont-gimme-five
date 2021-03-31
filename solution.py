@@ -4,7 +4,7 @@ def print_numbers():
     num1, num2 = numbers.split()
 
     for number in range(bum1, num2):
-        if number != 5
+        if number != '5'
         print(number)
 
 print_numbers()
